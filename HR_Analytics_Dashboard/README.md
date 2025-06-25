@@ -36,17 +36,17 @@ An interactive Tableau dashboard that provides high-level and detailed analysis 
 
 ## 📂 File Structure
 HR_Analytics_Dashboard/
---
+
 ├── HR_Dashboard.twbx # Tableau Workbook
---
+
 ├── employee_data.csv # Generated HR data
---
+
 ├── hr_dashboard_preview.png # Main dashboard preview
---
+
 ├── employee_list_preview.png # Detailed table screenshot
---
+
 └── README.md # This file
---
+
 ## 🖼️ Preview
 ![image](https://github.com/user-attachments/assets/44e35ee5-3393-4dfc-97ef-4c8f2dd0e4e7)
 
