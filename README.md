@@ -1,13 +1,12 @@
 # Tableau Projects
 
-This repository contains interactive Tableau dashboards for business intelligence and data analytics.
+This repository includes multiple interactive dashboards created using Tableau and Python-generated datasets.
 
-## 📊 Dashboards Included
-- HR Analytics Dashboard
-- Sales Performance Dashboard
-- Customer Insights Dashboard
+## 📁 Dashboards
 
-## 🔧 Tools Used
-- Tableau
-- Python (for data generation)
-- Figma (for design and layout)
+1. **HR Analytics Dashboard**
+   - Hiring trends, demographics, income analysis
+2. **Sales Performance Dashboard**
+   - Monthly & weekly trends, subcategory breakdown
+
+👉 Explore individual folders for full project breakdowns.
